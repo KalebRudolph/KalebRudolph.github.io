@@ -1,0 +1,22 @@
+---
+title: "Kaleb Rudolph"
+image: KalebRudolphSS.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/KalebRudolph
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kaleb-rudolph-56876128b
+    - icon: inboxes
+      text: Contact
+      href: mailto:kr081@uark.edu
+---
+
+I'm an Industrial Engineering student at the University of Arkansas with
+experience in manufacturing operations and automation through my internship
+at Truvant. I'm interested in process improvement, data analysis, and
+optimization.
+---

@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Kaleb Rudolph"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: Project.qmd
+      - text: Resume
+        href: Resume.qmd
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+
+editor: visual
