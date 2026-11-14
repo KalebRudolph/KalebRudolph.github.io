@@ -15,8 +15,4 @@ about:
       href: mailto:kr081@uark.edu
 ---
 
-I'm an Industrial Engineering student at the University of Arkansas with
-experience in manufacturing operations and automation through my internship
-at Truvant. I'm interested in process improvement, data analysis, and
-optimization.
----
+I'm an Industrial Engineering student at the University of Arkansas with experience in manufacturing operations and automation through my internship at Truvant. I'm interested in process improvement, data analysis, and optimization. ---
